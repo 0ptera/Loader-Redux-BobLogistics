@@ -1,2 +1,2 @@
 # Loader-Redux-BobLogistics
-Mod showcase on how to add Loaders for any logistics mod to Loader Redux.
+Adds Loaders for Bob's Logistics using LoaderRedux API.

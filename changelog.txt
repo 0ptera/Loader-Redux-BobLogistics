@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2022-04-18
+  Features:
+    - adds Turbo Loader and Ultimate Loader for Bobs Logistics
+    - changes all loader recipes if Bobs Metals, Chemicals and Intermediates is also installed
